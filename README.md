@@ -1,7 +1,5 @@
 # Cloudflare IPv4 Enabler and IPv6 disable script (Shell)
 
-#  Cloudflare IPv4 Enabler and IPv6 disable script (Shell)
-
 Using this script you can easily enable IPv4 support and disable IPv6 in your Cloudflare account.
 
 ## Instructions
